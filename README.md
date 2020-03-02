@@ -26,7 +26,7 @@ Dataset for the training of the model is taken from [Kaggle](https://www.kaggle.
 
 ## Author
 
-**[GUNTUKU SAI RISHITHA](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**
+**[GUNTUKU SAI RISHITHA](https://www.linkedin.com/in/sai-rishitha-guntuku-441046194/)**
 
 ## Acknowledgments
 ### References
